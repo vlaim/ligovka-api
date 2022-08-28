@@ -1,0 +1,33 @@
+{
+  "name": "ligovka-api",
+  "version": "1.0.0",
+  "description": "API that returns insformation about currency rates from ligovka.ru",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlaim/ligovka-api.git"
+  },
+  "keywords": [
+    "api",
+    "exchange",
+    "usd",
+    "eur",
+    "rates",
+    "rub"
+  ],
+  "author": "Vladislav Alexeyev <vlad@alexeyev.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vlaim/ligovka-api/issues"
+  },
+  "homepage": "https://github.com/vlaim/ligovka-api#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "jsdom": "^20.0.0",
+    "node-fetch": "^3.2.10",
+    "node-html-parser": "^5.4.2-0"
+  }
+}
