@@ -40,9 +40,17 @@ Then go to [http://localhost:3000/](http://localhost:3000/)
 ```
 
 "1" - means the rate for buying/selling 1-99 X 
+
 "100" - means the rate for buying/selling 1-999 X 
+
 "1000" - means therate for buying/selling 1000+ X, 
 
 where X is USD or EUR
 
 Values are represented in **RUB** 
+
+## Disclaimer 
+
+According to ligovka.ru all rates have an informative purpose and under no circumstances are they a public offer determined by the provisions of Article 437(2) of the Civil Code of the Russian Federation.
+
+Все курсы имеют информативную цель и ни при каких условиях не являются публичной офертой, определяемой положениями Статьи 437(2) ГК РФ.
